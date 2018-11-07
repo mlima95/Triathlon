@@ -4,7 +4,6 @@
 * Pouvoir gérer des participant dans un triathlon en c#
 
 Les outils mis en oeuvre :
-  * Git.
   * C#.
   
  Ce tp contient quatre classes :
