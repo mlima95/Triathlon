@@ -16,6 +16,9 @@ Les outils mis en oeuvre :
   * Une classe Resultat
   >>Contient deux méthodes
   
+  # Diagramme de Classes
+  
+  !(Diagramme de classes](https://github.com/mlima95/Triathlon/blob/master/DiagrammeTriathlon.PNG)
   
   Les compétences mis en oeuvres:
   * Gestion de classes 
