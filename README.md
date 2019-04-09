@@ -4,7 +4,8 @@
 * Pouvoir gérer des participant dans un triathlon en c#
 
 Les outils mis en oeuvre :
-  * C#.
+  * Visual Studio 2017
+  * Sublime Text
   
   # Cas Utilisation
   
