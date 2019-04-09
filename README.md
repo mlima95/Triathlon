@@ -6,11 +6,15 @@
 Les outils mis en oeuvre :
   * C#.
   
+  # Cas Utilisation
+  
+  ![CasUtilisation](https://github.com/mlima95/Triathlon/blob/master/CasUtilisationTriathlon.png)
+  
  Ce tp contient quatre classes :
   * Une classe Tri
   >>Contient des accesseurs et un constructeur.
   * Une classe Participant
-  >>Contient 4 méthodes : une méthode permettant de vérifier qu'une épreuve est présente dans la collection des résultats, une méthode qui    ajoute un résultat à la collection des résulats du participant, une méthode qui calcule le temps total réalisé par le participant à une     épreuve et une méthode qui détermine si un partcipant est hors délai ou pas.
+  >>Contient 4 méthodes : une méthode permettant de vérifier qu'une épreuve est présente dans la collection des résultats, une méthode qui ajoute un résultat à la collection des résulats du participant, une méthode qui calcule le temps total réalisé par le participant à une     épreuve et une méthode qui détermine si un partcipant est hors délai ou pas.
   * Une classe Epreuve
   >>Contient 3 accesseurs et un mutateur.
   * Une classe Resultat
@@ -18,7 +22,7 @@ Les outils mis en oeuvre :
   
   # Diagramme de Classes
   
-  !(Diagramme de classes](https://github.com/mlima95/Triathlon/blob/master/DiagrammeTriathlon.PNG)
+  ![Diagramme de classes](https://github.com/mlima95/Triathlon/blob/master/DiagrammeClasseTriathlon.png)
   
   Les compétences mis en oeuvres:
   * Gestion de classes 
